@@ -1,19 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Riley Larch
+ *UnityID: relarch
+ *Date: 2/18/2022
+ *Assignment: HTML & CSS Independent Assignment
+ *Description: Independent assignment for the HTML & CSS unit of E115
  */
  
 p {
-    property: value;
+  color: #0000FF;
 }
 
 .class {
-    property: value;
+    table-border: 2px solid #000000;
+     picborder: 2px solid #008000;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 200px ; 
+    max-height: 250px ;
+    
 }
